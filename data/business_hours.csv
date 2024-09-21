@@ -1,0 +1,4 @@
+store_id,dayOfWeek,start_time_local,end_time_local
+1,1,09:00:00,17:00:00
+1,2,09:00:00,17:00:00
+2,1,10:00:00,18:00:00

@@ -1,0 +1,4 @@
+store_id,timestamp_utc,status
+1,2024-09-21T10:00:00Z,active
+1,2024-09-21T10:15:00Z,inactive
+2,2024-09-21T10:30:00Z,active
